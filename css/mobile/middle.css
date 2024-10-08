@@ -1,0 +1,16 @@
+@media only screen and (max-width:1200px) {
+    .middle{
+        margin-top: 120px;
+       flex-flow: column wrap !important; 
+        .imageFirst{
+            width: 800px;
+            margin: 0 auto;
+            height: 400px;
+            background-attachment:fixed !important;
+        }
+        .textFirst{
+           max-lines: 5;
+           margin-top: 30px;
+        }
+    }      
+}

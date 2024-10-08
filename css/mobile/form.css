@@ -1,0 +1,14 @@
+@media  only screen and (max-width:650px) {
+    .city{
+        width: 400px !important;
+       
+   
+        display: block;
+margin-left: 200px;
+       z-index: 100;
+      opacity: 1;
+       transition: all 1000ms linear;
+       
+        height: 400px;
+}
+}

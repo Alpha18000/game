@@ -1,0 +1,9 @@
+.middle{
+    margin-top: 120px;
+    
+    .imageFirst{
+        width: 800px;
+        height: 400px;
+        background-attachment:fixed !important;
+    }
+}

@@ -1,0 +1,32 @@
+
+.city{
+    width: 50%;
+   position: absolute;
+   top: 150px;
+  left: calc(50% - 765px/2);
+   z-index: 100;
+
+   display: none;
+ 
+   
+    height: 400px;
+ 
+    h1{
+      text-align: center;
+      svg{
+        color: rgb(60, 93, 226);
+
+      }
+    }
+    select{
+      text-align: center;
+      font-size: 21px;
+    }
+    .Fmbtn{
+      margin-top: 130px;
+    }
+  }
+  .cityActive{
+    display: block;
+  }
+  
